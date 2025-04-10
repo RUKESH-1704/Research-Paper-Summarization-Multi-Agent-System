@@ -19,14 +19,10 @@ This project is a multi-agent system designed to help researchers stay updated o
 1. Python 3.8 or later
 2. Install required packages:
 ```bash
-pip install -r requirements.txt
+!pip install requests beautifulsoup4 transformers gTTS scholarly PyPDF2
 ```
 
-### Running the Application
-
-```bash
-python app.py
-```
+### Run the Code in colab
 
 ## System Architecture
 
